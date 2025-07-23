@@ -54,7 +54,7 @@ const Header = () => {
           <div className="lg:w-1/2 flex justify-center">
             <div className="relative">
               <div className="w-80 h-80 lg:w-96 lg:h-96 bg-gradient-to-br from-white to-pink-100 rounded-full flex items-center justify-center shadow-2xl transform hover:rotate-6 transition-transform duration-500">
-                <img src="/liv.jpg" alt="LivArt" className="w-full h-full object-cover rounded-full w-64 h-64" />
+                <img src="/liv.jpg" alt="LivArt" className="w-full h-full object-cover rounded-full w-60 h-60" />
               </div>
               {/* Floating elements */}
               <div className="absolute -top-4 -right-4 bg-yellow-400 rounded-full p-3 animate-bounce">
